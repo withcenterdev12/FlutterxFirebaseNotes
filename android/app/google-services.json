@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "997427448557",
+    "firebase_url": "https://seth-notes-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "seth-notes-app",
+    "storage_bucket": "seth-notes-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997427448557:android:fd13d96fbf47bb5e461ae4",
+        "android_client_info": {
+          "package_name": "com.example.notesfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEY_fD_yvMbveznJBIVHIS4UOEbRzC3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
